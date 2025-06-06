@@ -9,7 +9,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = 'https://your-app.onrender.com'; // Change this to your server's endpoint if needed
+const ENDPOINT = 'https://gup-shup-backend-io66.onrender.com'; // Change this to your server's endpoint if needed
 // const ENDPOINT = 'http://localhost:5000'; // Local development endpoint
 let socket;
 
